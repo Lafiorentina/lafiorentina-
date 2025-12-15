@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage PT -->
+  <url>
+    <loc>https://lafiorentina.pt/</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lafiorentina.pt/"/>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lafiorentina.pt/og-image.jpg</image:loc>
+      <image:title>La Fiorentina - Restaurante Italiano em Lisboa</image:title>
+      <image:caption>Interior do restaurante italiano La Fiorentina no Bairro Alto, Lisboa</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Menu Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#menu</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#galeria</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Our Room Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#sala</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#contato</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- English Version -->
+  <url>
+    <loc>https://lafiorentina.pt/?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lafiorentina.pt/"/>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

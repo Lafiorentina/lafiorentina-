@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://lafiorentina.pt/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en" />
+  </url>
+  
+  <!-- Menu Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#menu</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/#menu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en#menu" />
+  </url>
+  
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#galeria</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/#galeria" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en#galeria" />
+  </url>
+  
+  <!-- Our Room Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#sala</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/#sala" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en#sala" />
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://lafiorentina.pt/#contato</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lafiorentina.pt/#contato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lafiorentina.pt/?lang=en#contato" />
+  </url>
+</urlset>
