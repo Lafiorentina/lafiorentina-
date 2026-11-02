@@ -38,7 +38,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://images.unsplash.com" />
-    <link rel="dns-prefetch" href="https://sdk.zenchef.com" />
+    <link rel="dns-prefetch" href="https://widget.letsumai.com" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="restaurant" />
@@ -344,18 +344,15 @@
     </a>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
-    <script>
-      ;(function (d, s, id) {
-        const el = d.getElementsByTagName(s)[0]
-        if (d.getElementById(id) || el.parentNode == null) return
-        var js = d.createElement(s)
-        js.id = id
-        js.src = 'https://sdk.zenchef.com/v1/sdk.min.js'
-        el.parentNode.insertBefore(js, el)
-      })(document, 'script', 'zenchef-sdk')
-    </script>
-    <div class="zc-widget-config"
-       data-restaurant="375569"
-       data-open="2000"></div>
+    <script
+      id="umai-widget-script"
+      src="https://widget.letsumai.com/dist/embed.min.js"
+      data-api-key="38732f99-01cd-41f6-aafa-dea832f8e7bb"
+      data-widget-type="reservation"
+      data-language="en"
+      data-frame-embed="modal"
+      data-floating-button-is-enabled="false"
+      defer
+    ></script>
   </body>
 </html>

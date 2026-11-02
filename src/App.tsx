@@ -5,6 +5,7 @@ import ImageCarousel from "./components/ImageCarousel";
 import ContactForm from "./components/ContactForm";
 import Gallery from "./components/Gallery";
 import AnimatedSection from "./components/AnimatedSection";
+import ReservationButton from "./components/ReservationButton";
 import {
   MapPin,
   Phone,
@@ -640,6 +641,7 @@ function App() {
       </main>
 
       <Footer />
+      <ReservationButton />
     </div>
   );
 }
